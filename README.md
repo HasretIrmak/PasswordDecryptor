@@ -1,5 +1,4 @@
 # PasswordDecryptor
-# Password Cracker and Encryptor Tool
 
 ## Overview
 This Python-based tool allows users to:
